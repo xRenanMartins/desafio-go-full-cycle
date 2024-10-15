@@ -1,6 +1,6 @@
 # Full Cycle - Docker & Go Lang
 
-Este projeto é um simples contêiner Docker que executa uma aplicação Go Lang para imprimir a mensagem **"Full Cycle Rocks!!"**. A imagem Docker gerada é extremamente pequena (menos de 2MB), ideal para ambientes otimizados.
+Este projeto é um simples contêiner Docker que executa uma aplicação Go Lang para imprimir a mensagem **"Full Cycle Rocks!!"**. A imagem Docker gerada é extremamente pequena (menos de 2MB).
 
 ## Pré-requisitos
 
