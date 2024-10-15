@@ -7,13 +7,6 @@ Este projeto é um simples contêiner Docker que executa uma aplicação Go Lang
 - Docker instalado em sua máquina.
 - Conta no [Docker Hub](https://hub.docker.com/) (caso queira publicar sua própria imagem).
 
-## Como Usar
+## URL Imagem
 
-### 1. Build da Imagem
-
-Primeiro, clone o repositório ou faça o download do código. Depois, navegue até o diretório do projeto.
-
-Execute o seguinte comando para criar a imagem Docker localmente:
-
-```bash
-docker build -t <seu-usuario>/fullcycle .
+### https://hub.docker.com/layers/xrenanmartins/fullcycle/latest/images/sha256-86ca9878b76a8f25d9a8dd9d40dc0e0acfe346468d4a3c2befc3a21f9ffb8448?context=repo
